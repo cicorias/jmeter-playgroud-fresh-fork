@@ -3,10 +3,11 @@
 
 # Ignore Gradle build output directory
 build
-
+bin/
 .idea/
 
 # JMeter outputs
 jmeter.log
 *.jtl
 test-report/
+.DS_Store
